@@ -41,6 +41,3 @@ After configure the plugin.
 - 18 - Execute the command php console mautic:campaigns:trigger. 
 - 19 - The contact used to fill the form, will receive the text message.
 
-## Contributors
-
-@abreuleonel @mjlogan
